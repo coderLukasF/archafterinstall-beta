@@ -1,0 +1,1 @@
+# So in short terms use ./install.sh script okay
