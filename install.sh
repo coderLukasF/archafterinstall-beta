@@ -2,6 +2,7 @@
 
 ## Ask for admin privileges
 sudo -v
+set +H
 
 # Update system packages
 echo "Updating system packages..."
